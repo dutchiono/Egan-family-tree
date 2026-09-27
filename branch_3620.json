@@ -1,0 +1,408 @@
+{
+  "source": "3620.jpg / 3619.jpg / 3618.jpg",
+  "people": [
+    {
+      "id": "john_egan",
+      "name": "John Egan",
+      "birth": "1874",
+      "death": "1957",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "bridget_kane",
+      "name": "Bridget Kane Egan",
+      "birth": "1873",
+      "death": "1931",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "cornelius_egan",
+      "name": "Cornelius J. Egan",
+      "birth": "1901",
+      "death": "1925",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "william_m_egan",
+      "name": "William M. Egan",
+      "birth": "1906",
+      "death": "1987",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "helen_egan",
+      "name": "Helen Egan O’Connor",
+      "birth": "1901",
+      "death": "1970",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "catherine_egan",
+      "name": "Catherine Egan Jacob",
+      "birth": "1916",
+      "death": "2005",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "mary_egan",
+      "name": "Mary Egan Brown",
+      "birth": "1909",
+      "death": "1989",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "nora_egan",
+      "name": "Nora B. Egan",
+      "birth": "1911",
+      "death": "1934",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "maurice_oconnor",
+      "name": "Maurice O’Connor",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "theodore_kramer_jacob",
+      "name": "Theodore Kramer Jacob",
+      "birth": "1909",
+      "death": "1953",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": [],
+      "aliases": [
+        "Ted Jacob"
+      ]
+    },
+    {
+      "id": "thomas_brown",
+      "name": "Thomas Brown",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "edward_jacob",
+      "name": "Edward Phillip Jacob",
+      "birth": "1935",
+      "death": "2006",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Ed Jacob",
+        "Ed"
+      ]
+    },
+    {
+      "id": "theodore_jacob",
+      "name": "Theodore Jacob",
+      "birth": "1938",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Ted Jacob (child)",
+        "Ted"
+      ]
+    },
+    {
+      "id": "catherine_jacob",
+      "name": "Catherine Jacob Haley",
+      "birth": "1943",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg"
+      ],
+      "notes": [],
+      "aliases": [
+        "Catherine Jacob"
+      ]
+    },
+    {
+      "id": "joyce_jacob",
+      "name": "Joyce Jacob Stern",
+      "birth": "1947",
+      "death": "2001",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Joyce Jacob"
+      ]
+    },
+    {
+      "id": "william_jacob",
+      "name": "William Egan Jacob",
+      "birth": "1951",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Bill Jacob",
+        "Bill"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "john_egan",
+      "to": "bridget_kane",
+      "type": "partner",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "cornelius_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "william_m_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "helen_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "catherine_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "mary_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "john_egan",
+      "to": "nora_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "cornelius_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "william_m_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "helen_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "catherine_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "mary_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "bridget_kane",
+      "to": "nora_egan",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "helen_egan",
+      "to": "maurice_oconnor",
+      "type": "partner",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "theodore_kramer_jacob",
+      "type": "partner",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": "Marriage noted as 1938."
+    },
+    {
+      "from": "mary_egan",
+      "to": "thomas_brown",
+      "type": "partner",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "edward_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "theodore_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "catherine_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "joyce_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_egan",
+      "to": "william_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "theodore_kramer_jacob",
+      "to": "edward_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "theodore_kramer_jacob",
+      "to": "theodore_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "theodore_kramer_jacob",
+      "to": "catherine_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "theodore_kramer_jacob",
+      "to": "joyce_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "theodore_kramer_jacob",
+      "to": "william_jacob",
+      "type": "parent",
+      "source": "3620.jpg / 3619.jpg / 3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    }
+  ]
+}

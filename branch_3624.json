@@ -1,0 +1,643 @@
+{
+  "source": "3624.jpg",
+  "people": [
+    {
+      "id": "dutch",
+      "name": "Dutch",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "phil",
+      "name": "Phil",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "jeanmarie",
+      "name": "Jeanmarie",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "mary_pat_egan",
+      "name": "Mary Pat Egan",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "corey",
+      "name": "Corey",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "kelley_phil",
+      "name": "Kelley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "quinn",
+      "name": "Quinn",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "jacob_child",
+      "name": "Jacob",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "chance",
+      "name": "Chance",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "kinsley",
+      "name": "Kinsley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "mike_smith",
+      "name": "Mike Smith",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "michael_mac",
+      "name": "Michael (Mac)",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "josie",
+      "name": "Josie",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "declan",
+      "name": "Declan",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "kelay",
+      "name": "Kelay",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "bill_rodgers",
+      "name": "Bill Rodgers",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "brendan",
+      "name": "Brendan",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "paige",
+      "name": "Paige",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "steve",
+      "name": "Steve",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "julie",
+      "name": "Julie",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "trish",
+      "name": "Trish",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "brian_hannay",
+      "name": "Brian Hannay",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "kaya",
+      "name": "Kaya",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "john_liebgodt",
+      "name": "John Liebgodt",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "eloise",
+      "name": "Eloise",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "collins",
+      "name": "Collins",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "jaws",
+      "name": "Jaws [?]",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "carrie",
+      "name": "Carrie",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "tim_meyer",
+      "name": "Tim Meyer",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ray",
+      "name": "Ray",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "jack_meyer",
+      "name": "Jack",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "stephen",
+      "name": "Stephen",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "maura",
+      "name": "Maura",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "vince_lanham",
+      "name": "Vince Lanham",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3624.jpg"
+      ],
+      "notes": []
+    }
+  ],
+  "relationships": [
+    {
+      "from": "phil",
+      "to": "jeanmarie",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "edward_jacob",
+      "to": "phil",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Header Ed (Mary Pat Egan) seems to indicate Phil’s parent; verify."
+    },
+    {
+      "from": "edward_jacob",
+      "to": "mary_pat_egan",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Handwritten header may refer to Ed’s spouse."
+    },
+    {
+      "from": "phil",
+      "to": "dutch",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "phil",
+      "to": "corey",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "phil",
+      "to": "kelley_phil",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jeanmarie",
+      "to": "dutch",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jeanmarie",
+      "to": "corey",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jeanmarie",
+      "to": "kelley_phil",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "dutch",
+      "to": "quinn",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "dutch",
+      "to": "jacob_child",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "corey",
+      "to": "chance",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "corey",
+      "to": "kinsley",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kelley_phil",
+      "to": "mike_smith",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kelley_phil",
+      "to": "michael_mac",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kelley_phil",
+      "to": "josie",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kelley_phil",
+      "to": "declan",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "edward_jacob",
+      "to": "kelay",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Handwritten sibling line appears below Ed; confirm."
+    },
+    {
+      "from": "edward_jacob",
+      "to": "steve",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Handwritten sibling line appears below Ed; confirm."
+    },
+    {
+      "from": "edward_jacob",
+      "to": "trish",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Handwritten sibling line appears below Ed; confirm."
+    },
+    {
+      "from": "kelay",
+      "to": "bill_rodgers",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kelay",
+      "to": "brendan",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "brendan",
+      "to": "paige",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "steve",
+      "to": "julie",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "trish",
+      "to": "brian_hannay",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "steve",
+      "to": "kaya",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Long branch line under Steve; confirm."
+    },
+    {
+      "from": "steve",
+      "to": "carrie",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Long branch line under Steve; confirm."
+    },
+    {
+      "from": "steve",
+      "to": "stephen",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Long branch line under Steve; confirm."
+    },
+    {
+      "from": "steve",
+      "to": "maura",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "tentative",
+      "note": "Long branch line under Steve; confirm."
+    },
+    {
+      "from": "kaya",
+      "to": "john_liebgodt",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kaya",
+      "to": "eloise",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kaya",
+      "to": "collins",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kaya",
+      "to": "jaws",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "carrie",
+      "to": "tim_meyer",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "carrie",
+      "to": "ray",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "carrie",
+      "to": "jack_meyer",
+      "type": "parent",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "maura",
+      "to": "vince_lanham",
+      "type": "partner",
+      "source": "3624.jpg",
+      "confidence": "clear",
+      "note": ""
+    }
+  ]
+}

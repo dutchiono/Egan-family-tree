@@ -1,0 +1,290 @@
+{
+  "source": "3621.jpg",
+  "people": [
+    {
+      "id": "edward_jacob",
+      "name": "Edward Phillip Jacob",
+      "birth": "1935",
+      "death": "2006",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Ed Jacob",
+        "Ed"
+      ]
+    },
+    {
+      "id": "theodore_jacob",
+      "name": "Theodore Jacob",
+      "birth": "1938",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Ted Jacob (child)",
+        "Ted"
+      ]
+    },
+    {
+      "id": "joyce_jacob",
+      "name": "Joyce Jacob Stern",
+      "birth": "1947",
+      "death": "2001",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Joyce Jacob"
+      ]
+    },
+    {
+      "id": "william_jacob",
+      "name": "William Egan Jacob",
+      "birth": "1951",
+      "death": "",
+      "sources": [
+        "3620.jpg / 3619.jpg / 3618.jpg",
+        "3621.jpg"
+      ],
+      "notes": [
+        "Same person as abbreviated label on this photo."
+      ],
+      "aliases": [
+        "Bill Jacob",
+        "Bill"
+      ]
+    },
+    {
+      "id": "joseph_haley",
+      "name": "Joseph Dennis Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "amy_haley",
+      "name": "Amy Haley (Banyasz)",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "tom_haley",
+      "name": "Tom Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "debbie_haley",
+      "name": "Debbie Haley (Cecchini)",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "danielle_haley",
+      "name": "Danielle Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "cameron_haley",
+      "name": "Cameron Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "turner_banyasz",
+      "name": "Turner Banyasz",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "tyler_banyasz",
+      "name": "Tyler Banyasz",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "alyssa_haley",
+      "name": "Alyssa Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "michael_haley",
+      "name": "Michael Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "javier_gdovic",
+      "name": "Javier Gdovic",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "henry_michael_haley",
+      "name": "Henry Michael Haley",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3621.jpg"
+      ],
+      "notes": []
+    }
+  ],
+  "relationships": [
+    {
+      "from": "catherine_jacob",
+      "to": "joseph_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_jacob",
+      "to": "amy_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_jacob",
+      "to": "tom_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "catherine_jacob",
+      "to": "debbie_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "joseph_haley",
+      "to": "danielle_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "joseph_haley",
+      "to": "cameron_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "amy_haley",
+      "to": "turner_banyasz",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "amy_haley",
+      "to": "tyler_banyasz",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "tom_haley",
+      "to": "alyssa_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "tom_haley",
+      "to": "michael_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "debbie_haley",
+      "to": "javier_gdovic",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "michael_haley",
+      "to": "henry_michael_haley",
+      "type": "parent",
+      "source": "3621.jpg",
+      "confidence": "clear",
+      "note": ""
+    }
+  ]
+}

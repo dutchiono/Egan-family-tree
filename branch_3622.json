@@ -1,0 +1,383 @@
+{
+  "source": "3622.jpg",
+  "people": [
+    {
+      "id": "jerome_teitz",
+      "name": "Jerome Teitz",
+      "birth": "1937",
+      "death": "2025",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "mary_b_brown",
+      "name": "Mary B. Brown",
+      "birth": "1938",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "kathleen_teitz",
+      "name": "Kathleen Teitz Hornyak",
+      "birth": "1960",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "thomas_n_teitz",
+      "name": "Thomas N. Teitz",
+      "birth": "1962",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "amy_teitz",
+      "name": "Amy Teitz Bauer",
+      "birth": "1963",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "robert_hornyak",
+      "name": "Robert (Bob) Hornyak",
+      "birth": "1951",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "claire_mulvey",
+      "name": "Claire Mulvey",
+      "birth": "1964",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "james_bauer",
+      "name": "James (Jim) Bauer",
+      "birth": "1957",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "evan_hornyak",
+      "name": "Evan Hornyak",
+      "birth": "1998",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "emily_hornyak",
+      "name": "Emily Hornyak",
+      "birth": "1992",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "thomas_tj",
+      "name": "Thomas (TJ) Teitz",
+      "birth": "1998",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "sean_teitz",
+      "name": "Sean Teitz",
+      "birth": "2001",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "caitlin_bauer",
+      "name": "Caitlin Bauer",
+      "birth": "1992",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "michael_bauer",
+      "name": "Michael Bauer",
+      "birth": "1986",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "shannon_o",
+      "name": "Shannon O.",
+      "birth": "1989",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ryleigh",
+      "name": "Ryleigh",
+      "birth": "2019",
+      "death": "",
+      "sources": [
+        "3622.jpg"
+      ],
+      "notes": []
+    }
+  ],
+  "relationships": [
+    {
+      "from": "mary_b_brown",
+      "to": "jerome_teitz",
+      "type": "partner",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": "Marriage noted as 1960."
+    },
+    {
+      "from": "mary_b_brown",
+      "to": "kathleen_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "mary_b_brown",
+      "to": "thomas_n_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "mary_b_brown",
+      "to": "amy_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jerome_teitz",
+      "to": "kathleen_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jerome_teitz",
+      "to": "thomas_n_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jerome_teitz",
+      "to": "amy_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kathleen_teitz",
+      "to": "robert_hornyak",
+      "type": "partner",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "thomas_n_teitz",
+      "to": "claire_mulvey",
+      "type": "partner",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "amy_teitz",
+      "to": "james_bauer",
+      "type": "partner",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "evan_hornyak",
+      "to": "shannon_o",
+      "type": "partner",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kathleen_teitz",
+      "to": "evan_hornyak",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "kathleen_teitz",
+      "to": "emily_hornyak",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "robert_hornyak",
+      "to": "evan_hornyak",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "robert_hornyak",
+      "to": "emily_hornyak",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "thomas_n_teitz",
+      "to": "thomas_tj",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "thomas_n_teitz",
+      "to": "sean_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "claire_mulvey",
+      "to": "thomas_tj",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "claire_mulvey",
+      "to": "sean_teitz",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "amy_teitz",
+      "to": "caitlin_bauer",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "amy_teitz",
+      "to": "michael_bauer",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "james_bauer",
+      "to": "caitlin_bauer",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "james_bauer",
+      "to": "michael_bauer",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "evan_hornyak",
+      "to": "ryleigh",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "shannon_o",
+      "to": "ryleigh",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "mary_egan",
+      "to": "mary_b_brown",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "tentative",
+      "note": "Drawing connects Mary C. Egan / Thomas Brown to Mary B. Brown; verify given initial."
+    },
+    {
+      "from": "thomas_brown",
+      "to": "mary_b_brown",
+      "type": "parent",
+      "source": "3622.jpg",
+      "confidence": "tentative",
+      "note": "Drawing implies this relationship."
+    }
+  ]
+}

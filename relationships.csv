@@ -1,0 +1,204 @@
+﻿from,to,type,source,confidence,note
+john_egan,bridget_kane,partner,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,cornelius_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,william_m_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,helen_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,catherine_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,mary_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+john_egan,nora_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,cornelius_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,william_m_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,helen_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,catherine_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,mary_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+bridget_kane,nora_egan,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+helen_egan,maurice_oconnor,partner,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,theodore_kramer_jacob,partner,3620.jpg / 3619.jpg / 3618.jpg,clear,Marriage noted as 1938.
+mary_egan,thomas_brown,partner,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,edward_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,theodore_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,catherine_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,joyce_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+catherine_egan,william_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_kramer_jacob,edward_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_kramer_jacob,theodore_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_kramer_jacob,catherine_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_kramer_jacob,joyce_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_kramer_jacob,william_jacob,parent,3620.jpg / 3619.jpg / 3618.jpg,clear,
+theodore_jacob,teresa_jacob,partner,3619.jpg,clear,Marriage noted as 1961.
+theodore_jacob,tim_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,francie_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,mike_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,joyce_jacob_2,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,jack_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,kira_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,connor_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,jim_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,lisa_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,rick_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+theodore_jacob,debbie_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,tim_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,francie_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,mike_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,joyce_jacob_2,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,jack_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,kira_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,connor_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,jim_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,lisa_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,rick_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+teresa_jacob,debbie_jacob,parent,3619.jpg,tentative,Handwritten brackets may group spouses and children differently; verify.
+tim_jacob,jeff_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+tim_jacob,jo_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+francie_jacob,mary_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+francie_jacob,kayla_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+francie_jacob,marc_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+mike_jacob,malisa_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+joyce_jacob_2,bridget_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+jack_jacob,dean_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+kira_jacob,mila_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+jim_jacob,jim_jr_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+lisa_jacob,joe_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+lisa_jacob,lindsay_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+rick_jacob,derrick_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+debbie_jacob,jayson_jacob,parent,3619.jpg,tentative,Vertical alignment only; confirm parentage.
+william_jacob,margaret_jacob,partner,3618.jpg,clear,Marriage noted as 1977.
+william_jacob,jennifer_jacob,parent,3618.jpg,clear,
+william_jacob,cherie_jacob,parent,3618.jpg,clear,
+margaret_jacob,jennifer_jacob,parent,3618.jpg,clear,
+margaret_jacob,cherie_jacob,parent,3618.jpg,clear,
+jennifer_jacob,ashlyn_cornelius,parent,3618.jpg,clear,
+john_oconnor,jean_kramer,partner,3623.jpg,clear,
+helen_egan,john_oconnor,parent,3623.jpg,tentative,The printed connector implies descent but may omit an intervening generation; verify.
+maurice_oconnor,john_oconnor,parent,3623.jpg,tentative,The printed connector implies descent but may omit an intervening generation; verify.
+john_oconnor,kevin_oconnor,parent,3623.jpg,clear,
+john_oconnor,martin_oconnor,parent,3623.jpg,clear,
+john_oconnor,susan_oconnor,parent,3623.jpg,clear,
+john_oconnor,mary_oconnor,parent,3623.jpg,clear,
+john_oconnor,margaret_oconnor,parent,3623.jpg,clear,
+john_oconnor,patricia_oconnor,parent,3623.jpg,clear,
+john_oconnor,bridget_oconnor,parent,3623.jpg,clear,
+jean_kramer,kevin_oconnor,parent,3623.jpg,clear,
+jean_kramer,martin_oconnor,parent,3623.jpg,clear,
+jean_kramer,susan_oconnor,parent,3623.jpg,clear,
+jean_kramer,mary_oconnor,parent,3623.jpg,clear,
+jean_kramer,margaret_oconnor,parent,3623.jpg,clear,
+jean_kramer,patricia_oconnor,parent,3623.jpg,clear,
+jean_kramer,bridget_oconnor,parent,3623.jpg,clear,
+susan_oconnor,randy_brooks,partner,3623.jpg,clear,
+mary_oconnor,darryll_daresh,partner,3623.jpg,clear,
+margaret_oconnor,craig_whitworth,partner,3623.jpg,clear,
+patricia_oconnor,patrick_luna,partner,3623.jpg,clear,
+patricia_oconnor,scott_porto,partner,3623.jpg,clear,
+bridget_oconnor,perry_smith,partner,3623.jpg,clear,
+kevin_oconnor,christopher_oconnor,parent,3623.jpg,clear,
+kevin_oconnor,sean_oconnor,parent,3623.jpg,clear,
+martin_oconnor,kimberly_oconnor,parent,3623.jpg,clear,
+susan_oconnor,ashlee_brooks,parent,3623.jpg,clear,
+susan_oconnor,aric_brooks,parent,3623.jpg,clear,
+mary_oconnor,allison_daresh,parent,3623.jpg,clear,
+mary_oconnor,alex_daresh,parent,3623.jpg,clear,
+margaret_oconnor,megan_whitworth,parent,3623.jpg,clear,
+patricia_oconnor,connor_luna,parent,3623.jpg,clear,
+patricia_oconnor,payton_luna,parent,3623.jpg,clear,
+patricia_oconnor,olivia_luna,parent,3623.jpg,clear,
+bridget_oconnor,kirsten_smith,parent,3623.jpg,clear,
+bridget_oconnor,kaleb_smith,parent,3623.jpg,clear,
+bridget_oconnor,kaden_smith,parent,3623.jpg,clear,
+ashlee_brooks,stephen_sparks,partner,3623.jpg,clear,
+aric_brooks,sky,partner,3623.jpg,clear,
+allison_daresh,triston_whitehead,partner,3623.jpg,clear,
+alex_daresh,daniella,partner,3623.jpg,clear,
+megan_whitworth,luke_swanson,partner,3623.jpg,clear,
+payton_luna,jenna,partner,3623.jpg,clear,
+kirsten_smith,jacob_boston,partner,3623.jpg,clear,
+kaleb_smith,melissa,partner,3623.jpg,clear,
+christopher_oconnor,brienna,parent,3623.jpg,clear,
+kimberly_oconnor,tavin,parent,3623.jpg,clear,
+kimberly_oconnor,tucker,parent,3623.jpg,clear,
+ashlee_brooks,jack_sparks,parent,3623.jpg,clear,
+ashlee_brooks,jordan_sparks,parent,3623.jpg,clear,
+aric_brooks,shawn_brooks,parent,3623.jpg,clear,
+allison_daresh,gunner,parent,3623.jpg,clear,
+allison_daresh,gage,parent,3623.jpg,clear,
+allison_daresh,gatlin,parent,3623.jpg,clear,
+alex_daresh,finley,parent,3623.jpg,clear,
+payton_luna,katelyn,parent,3623.jpg,clear,
+kirsten_smith,beau,parent,3623.jpg,clear,
+kirsten_smith,blair,parent,3623.jpg,clear,
+mary_b_brown,jerome_teitz,partner,3622.jpg,clear,Marriage noted as 1960.
+mary_b_brown,kathleen_teitz,parent,3622.jpg,clear,
+mary_b_brown,thomas_n_teitz,parent,3622.jpg,clear,
+mary_b_brown,amy_teitz,parent,3622.jpg,clear,
+jerome_teitz,kathleen_teitz,parent,3622.jpg,clear,
+jerome_teitz,thomas_n_teitz,parent,3622.jpg,clear,
+jerome_teitz,amy_teitz,parent,3622.jpg,clear,
+kathleen_teitz,robert_hornyak,partner,3622.jpg,clear,
+thomas_n_teitz,claire_mulvey,partner,3622.jpg,clear,
+amy_teitz,james_bauer,partner,3622.jpg,clear,
+evan_hornyak,shannon_o,partner,3622.jpg,clear,
+kathleen_teitz,evan_hornyak,parent,3622.jpg,clear,
+kathleen_teitz,emily_hornyak,parent,3622.jpg,clear,
+robert_hornyak,evan_hornyak,parent,3622.jpg,clear,
+robert_hornyak,emily_hornyak,parent,3622.jpg,clear,
+thomas_n_teitz,thomas_tj,parent,3622.jpg,clear,
+thomas_n_teitz,sean_teitz,parent,3622.jpg,clear,
+claire_mulvey,thomas_tj,parent,3622.jpg,clear,
+claire_mulvey,sean_teitz,parent,3622.jpg,clear,
+amy_teitz,caitlin_bauer,parent,3622.jpg,clear,
+amy_teitz,michael_bauer,parent,3622.jpg,clear,
+james_bauer,caitlin_bauer,parent,3622.jpg,clear,
+james_bauer,michael_bauer,parent,3622.jpg,clear,
+evan_hornyak,ryleigh,parent,3622.jpg,clear,
+shannon_o,ryleigh,parent,3622.jpg,clear,
+mary_egan,mary_b_brown,parent,3622.jpg,tentative,Drawing connects Mary C. Egan / Thomas Brown to Mary B. Brown; verify given initial.
+thomas_brown,mary_b_brown,parent,3622.jpg,tentative,Drawing implies this relationship.
+catherine_jacob,joseph_haley,parent,3621.jpg,clear,
+catherine_jacob,amy_haley,parent,3621.jpg,clear,
+catherine_jacob,tom_haley,parent,3621.jpg,clear,
+catherine_jacob,debbie_haley,parent,3621.jpg,clear,
+joseph_haley,danielle_haley,parent,3621.jpg,clear,
+joseph_haley,cameron_haley,parent,3621.jpg,clear,
+amy_haley,turner_banyasz,parent,3621.jpg,clear,
+amy_haley,tyler_banyasz,parent,3621.jpg,clear,
+tom_haley,alyssa_haley,parent,3621.jpg,clear,
+tom_haley,michael_haley,parent,3621.jpg,clear,
+debbie_haley,javier_gdovic,parent,3621.jpg,clear,
+michael_haley,henry_michael_haley,parent,3621.jpg,clear,
+phil,jeanmarie,partner,3624.jpg,clear,
+edward_jacob,phil,parent,3624.jpg,tentative,Header Ed (Mary Pat Egan) seems to indicate Phil’s parent; verify.
+edward_jacob,mary_pat_egan,partner,3624.jpg,tentative,Handwritten header may refer to Ed’s spouse.
+phil,dutch,parent,3624.jpg,clear,
+phil,corey,parent,3624.jpg,clear,
+phil,kelley_phil,parent,3624.jpg,clear,
+jeanmarie,dutch,parent,3624.jpg,clear,
+jeanmarie,corey,parent,3624.jpg,clear,
+jeanmarie,kelley_phil,parent,3624.jpg,clear,
+dutch,quinn,parent,3624.jpg,clear,
+dutch,jacob_child,parent,3624.jpg,clear,
+corey,chance,parent,3624.jpg,clear,
+corey,kinsley,parent,3624.jpg,clear,
+kelley_phil,mike_smith,partner,3624.jpg,clear,
+kelley_phil,michael_mac,parent,3624.jpg,clear,
+kelley_phil,josie,parent,3624.jpg,clear,
+kelley_phil,declan,parent,3624.jpg,clear,
+edward_jacob,kelay,parent,3624.jpg,tentative,Handwritten sibling line appears below Ed; confirm.
+edward_jacob,steve,parent,3624.jpg,tentative,Handwritten sibling line appears below Ed; confirm.
+edward_jacob,trish,parent,3624.jpg,tentative,Handwritten sibling line appears below Ed; confirm.
+kelay,bill_rodgers,partner,3624.jpg,clear,
+kelay,brendan,parent,3624.jpg,clear,
+brendan,paige,partner,3624.jpg,clear,
+steve,julie,partner,3624.jpg,clear,
+trish,brian_hannay,partner,3624.jpg,clear,
+steve,kaya,parent,3624.jpg,tentative,Long branch line under Steve; confirm.
+steve,carrie,parent,3624.jpg,tentative,Long branch line under Steve; confirm.
+steve,stephen,parent,3624.jpg,tentative,Long branch line under Steve; confirm.
+steve,maura,parent,3624.jpg,tentative,Long branch line under Steve; confirm.
+kaya,john_liebgodt,partner,3624.jpg,clear,
+kaya,eloise,parent,3624.jpg,clear,
+kaya,collins,parent,3624.jpg,clear,
+kaya,jaws,parent,3624.jpg,clear,
+carrie,tim_meyer,partner,3624.jpg,clear,
+carrie,ray,parent,3624.jpg,clear,
+carrie,jack_meyer,parent,3624.jpg,clear,
+maura,vince_lanham,partner,3624.jpg,clear,

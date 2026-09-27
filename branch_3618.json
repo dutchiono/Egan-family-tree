@@ -1,0 +1,95 @@
+{
+  "source": "3618.jpg",
+  "people": [
+    {
+      "id": "margaret_jacob",
+      "name": "Margaret (Peggy) Jacob",
+      "birth": "1953",
+      "death": "",
+      "sources": [
+        "3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "jennifer_jacob",
+      "name": "Jennifer R. Jacob",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "cherie_jacob",
+      "name": "Cherie A. Jacob",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3618.jpg"
+      ],
+      "notes": []
+    },
+    {
+      "id": "ashlyn_cornelius",
+      "name": "Ashlyn Cornelius",
+      "birth": "",
+      "death": "",
+      "sources": [
+        "3618.jpg"
+      ],
+      "notes": []
+    }
+  ],
+  "relationships": [
+    {
+      "from": "william_jacob",
+      "to": "margaret_jacob",
+      "type": "partner",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": "Marriage noted as 1977."
+    },
+    {
+      "from": "william_jacob",
+      "to": "jennifer_jacob",
+      "type": "parent",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "william_jacob",
+      "to": "cherie_jacob",
+      "type": "parent",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "margaret_jacob",
+      "to": "jennifer_jacob",
+      "type": "parent",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "margaret_jacob",
+      "to": "cherie_jacob",
+      "type": "parent",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    },
+    {
+      "from": "jennifer_jacob",
+      "to": "ashlyn_cornelius",
+      "type": "parent",
+      "source": "3618.jpg",
+      "confidence": "clear",
+      "note": ""
+    }
+  ]
+}
